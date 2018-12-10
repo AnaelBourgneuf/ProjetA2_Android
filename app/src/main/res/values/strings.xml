@@ -3,8 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="voir_plus">Voir Plus</string>
     <string name="les_ev_nements">Les Evènements</string>
-    <string name="mes_notes_netyp_o">Mes Notes/NetYpéo</string>
-    <string name="voir_plus">Voir Plus</string>
-    <string name="donner_votre_avis_sur_un_cours">Donner Votre Avis Sur Un cours</string>
-    <string name="boite_id_es">Boite à idées</string>
+    <string name="donner_votre_avis_sur_un_cours">Donner Votre Avis Sur Un cour</string>
+    <string name="boite_id_es">Boîte à idées</string>
 </resources>
